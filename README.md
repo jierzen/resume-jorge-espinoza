@@ -1,6 +1,6 @@
-# Currículum de Jorge Espinoza
+# Mi CV
 
-¡Bienvenido al repositorio de mi currículum! Aquí he creado mi currículum utilizando HTML, Bootstrap y CSS. Este repositorio refleja mi trayectoria profesional en el campo de la Informática, así como mis experiencias, habilidades y logros.
+¡Bienvenido al repositorio de mi currículum! Aquí he creado mi CV utilizando HTML, Bootstrap y CSS. Este repositorio refleja mi trayectoria profesional en el campo de la Informática, así como mis experiencias, habilidades y logros.
 
 ## 🚀 Características
 
