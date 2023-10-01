@@ -29,7 +29,7 @@ Todo lo que necesitas para ver este currículum es un navegador web moderno.
 
 ## 🔗 Enlaces
 
-- Versión en Vivo: [Currículum de Jorge Espinoza](1.0) <!-- Reemplaza '#' con el enlace a la versión en vivo -->
+- Versión en Vivo: [Currículum de Jorge Espinoza](https://jierzen.github.io/resume-jorge-espinoza/)
 - Bootstrap: [GetBootstrap](https://getbootstrap.com/)
 
 ## 📄 Licencia
