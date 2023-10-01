@@ -32,7 +32,7 @@ Todo lo que necesitas para ver este currículum es un navegador web moderno.
 
 ## 📄 Licencia
 
-Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
+Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](https://opensource.org/license/mit/).
 
 ## 🤝 Contribuciones
 
