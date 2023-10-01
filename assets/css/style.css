@@ -16,6 +16,7 @@ font-weight: 500; /* 300 o 500 */
 
 .cabecera{
     background-color: black;
+    padding-top: 1%;
 }
 
 .contacto{
@@ -42,7 +43,7 @@ a{
 
 
 .nav_home,.nav_features,.nav_pricing{
-    font-size: 20px;
+    font-size: 15px;
     color: white !important;
 }
 
