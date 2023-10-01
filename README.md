@@ -43,6 +43,6 @@ Aunque este repositorio contiene mi currículum personal, si tienes alguna idea 
 ## 👨‍💻 Autor
 
 - **Jorge Espinoza Ramirez**
-  - [LinkedIn](https://www.linkedin.com/in/jorge-espinoza-ramirez/](https://www.linkedin.com/in/jorge-espinoza-ramirez-3bb157119)https://www.linkedin.com/in/jorge-espinoza-ramirez-3bb157119)
+  - [LinkedIn](https://www.linkedin.com/in/jorge-espinoza-ramirez-3bb157119)
   - Email: jorge.esp.ram@gmail.com
 
