@@ -2,6 +2,8 @@
 
 ¡Bienvenido al repositorio de mi currículum! Aquí he creado mi CV utilizando HTML, Bootstrap y CSS. Este repositorio refleja mi trayectoria profesional en el campo de la Informática, así como mis experiencias, habilidades y logros.
 
+## https://jierzen.github.io/resume-jorge-espinoza/
+
 ## 🚀 Características
 
 - **Diseño Responsivo:** Gracias a Bootstrap, el currículum está optimizado para una amplia gama de dispositivos, desde ordenadores de sobremesa hasta móviles.
