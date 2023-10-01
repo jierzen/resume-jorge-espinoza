@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+/*font-family: 'Roboto', sans-serif;
+font-weight: 500; /* 300 o 500 */
+
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;  
+    text-align: justify;
+    text-justify: inter-word;
+    
+}
+
+.titulo_cv{
+    color:aliceblue;
+}
+
+.cabecera{
+    background-color: black;
+}
+
+.contacto{
+    padding: 1% 1% 1% 1%;
+}
+
+body{
+    background-image: url('https://i.pinimg.com/736x/57/a3/51/57a3513e2ca93a9f71ff8d78b9f02e71.jpg') !important;
+    padding-bottom: 1%;
+}
+
+.row{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.bg-cv {
+    background-color: black;
+}
+
+a{
+    font-weight: 500 !important;
+}
+
+
+.nav_home,.nav_features,.nav_pricing{
+    font-size: 20px;
+    color: white !important;
+}
+
+.nav_home:hover {
+    color: #0000ff !important;
+}
+
+.nav_features:hover, .nav_pricing:hover {
+    color: #0000ff !important;
+}
+
+.nav_disabled:hover {
+    color: #0000ff !important;
+}
+
+.formulario{
+    padding-bottom: 2%;
+}
+
+.titulo{
+    font-size: 20px;
+}
+
+.precio_1, .subtitulo, .direccion{
+    padding-right: 5%;
+    color: #707070;
+}
+
+.direccion{
+    font-size: 13px;
+}
+
+.precio_1{
+    font-size: 16px;
+}
+.precio_2{
+    padding-left: 5%;
+    color: #28A745;
+    font-size: 20px;
+}
+
+.anuncio{
+    font-size: 21px;
+    color: #ffffff;
+    padding-top: 1%;
+    font-weight: 500; 
+}
+
+button{
+    color: #212529 !important;
+}
+
+.derechos{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.813);
+}
+
+.pie{
+    align-items: flex-end;
+    background-color: black;
+    color: white;
+    padding-top: 1%;
+}
+
+.work-history{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
