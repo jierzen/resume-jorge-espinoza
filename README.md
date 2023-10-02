@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio de mi currículum! Aquí he creado mi CV utilizando HTML, Bootstrap y CSS. Este repositorio refleja mi trayectoria profesional en el campo de la Informática, así como mis experiencias, habilidades y logros.
 
-## https://jierzen.github.io/resume-jorge-espinoza/
+### https://jierzen.github.io/resume-jorge-espinoza/
 
 ## 🚀 Características
 
@@ -23,14 +23,17 @@
 Todo lo que necesitas para ver este currículum es un navegador web moderno.
 
 ### Visualizar el Currículum
-
-- Clona este repositorio en tu máquina local o descarga el archivo zip.
-- Navega a la carpeta del proyecto y abre el archivo `index.html` en tu navegador web.
+- Visita este enlace a [mi GitHub Page de mi CV](https://jierzen.github.io/resume-jorge-espinoza/)
+- Si no, clona este repositorio en tu máquina local o descarga el archivo zip.
+- Luego navega a la carpeta del proyecto y abre el archivo `index.html` en tu navegador web.
 
 ## 🔗 Enlaces
 
 - Versión en Vivo: [Currículum de Jorge Espinoza](https://jierzen.github.io/resume-jorge-espinoza/)
+- Versión en Notion: [Currículum de Jorge Espinoza Notion](https://mirror-bugle-e7f.notion.site/Jorge-Espinoza-Ramirez-ae0f5dbd76b649f5b5fe3b97b98ced32?pvs=4)
 - Bootstrap: [GetBootstrap](https://getbootstrap.com/)
+- HTML: [Cheatsheet](https://htmlcheatsheet.com/)
+- CSS: [Cheatsheet](https://htmlcheatsheet.com/css/)
 
 ## 📄 Licencia
 
